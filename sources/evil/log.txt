@@ -1,6 +1,0 @@
-IP:      31.44.93.2
-Date:    08:44 29th August
-Referer: https://hack.vulnbank.com/vulnbank/online/history.php
-Username:  test
-Password:  test
----------------------------------------------------------------

