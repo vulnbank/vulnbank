@@ -21,5 +21,8 @@ Features list:
 ## Docker deployment
 You can deploy ready-to-use container from vulnbank/vulnbank:
 
+```docker run --name vulnbank -p 80:80 -d vulnbank/vulnbank```
+
 Or build your own with following command:
-docker build . -f Dockerfile
+
+```docker build . -f Dockerfile```
