@@ -74,7 +74,6 @@
     <link href="../assets/css/flag-icon.min.css" rel="stylesheet" />
 
     <!--   Core JS Files   -->
-<!--    <script src="../assets/js/jquery-1.10.2.js" type="text/javascript"></script> -->
     <script src="../assets/js/jquery-2.1.1.min.js" type="text/javascript"></script>
     <script src="../assets/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="../assets/js/bootstrap-select.min.js" type="text/javascript"></script>
